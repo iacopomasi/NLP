@@ -28,9 +28,9 @@ _Be patient, it takes a while to load Binder. Thanks._
 
 [Go back](https://iacopomasi.github.io/AI-ML-Unit-2-2022)
 
-**Date**       | **Topic**          | **Slides**        |  **Github/HTML**   |  **Code/Notebook** 
-:------------: | :------------:     | :------------:    |:------------: |:------------:
-|              |                    |                   |               |  |
-| __Introduction__    |                    |                   |               |  |
-April 3, 12     | LSA, intro word2vec | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/NLP/HEAD?urlpath=/tree/course/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/NLP/blob/main/course/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](course/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)                  
-|              |                    |                   |               |  |
+**Date**       | **Topic**          | **Slides**        |  **Github/HTML**   |  **Code/Notebook**  |  **PDF**
+:------------: | :------------:     | :------------:    |:------------: |:------------: |:------------:
+|              |                    |                   |               |  				|			|
+| __Introduction__    |                    |                   |               |  		|			|
+April 3, 12     | LSA, intro word2vec | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/NLP/HEAD?urlpath=/tree/course/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/NLP/blob/main/course/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](course/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)       | [![PDF](https://badgen.net/badge/icon/PDF?icon=terminal&label)](course/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.pdf)|           
+|              |                    |                   |               | 	 |			|  		|
