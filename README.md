@@ -26,7 +26,6 @@ _Be patient, it takes a while to load Binder. Thanks._
 
 ## Material 
 
-[Go back](https://iacopomasi.github.io/AI-ML-Unit-2-2022)
 
 **Date**       | **Topic**          | **Slides**        |  **Github/HTML**   |  **Code/Notebook**  |  **PDF**
 :------------: | :------------:     | :------------:    |:------------: |:------------: |:------------:
@@ -36,5 +35,5 @@ April 3, 12     | LSA, intro word2vec | [![Binder](https://mybinder.org/badge_lo
 |              |                    |                   |               | 	 |			|  		|
 April 17, 23     | scaling word2vec, Sentiment Analysis, Language Model w/ NN| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/NLP/HEAD?urlpath=/tree/course/2_02_word2vec_neural_nets/2_02_word2vec_neural_nets.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/NLP/blob/main/course/2_02_word2vec_neural_nets/2_02_word2vec_neural_nets.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](course/2_02_word2vec_neural_nets/2_02_word2vec_neural_nets.ipynb)       | [![PDF](https://badgen.net/badge/icon/PDF?icon=terminal&label)](course/2_02_word2vec_neural_nets/2_02_word2vec_neural_nets.pdf)|           
 |              |                    |                   |               | 	 |			|  		|
-April 24, 30     | Deep learning for Seq. Processing| [![Binder](https://mybinder.org/badge_logo.svg)](#)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](#)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](#)       | [![PDF](https://badgen.net/badge/icon/PDF?icon=terminal&label)](#)|           
+April 24, 30     | Deep learning for Seq. Processing| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/NLP/HEAD?urlpath=/tree/course/2_03_seq_processing/2_03_seq_processing.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](course/2_03_seq_processing/2_03_seq_processing.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](#)       | [![PDF](https://badgen.net/badge/icon/PDF?icon=terminal&label)](#)|           
 |              |                    |                   |               | 	 |			|  		|
