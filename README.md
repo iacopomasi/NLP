@@ -17,7 +17,7 @@ Master in [Computer Science](https://www.studiareinformatica.uniroma1.it/master-
 ### Neural and multimodal NLP - Part II
 #### [Prof. Masi](https://corsidilaurea.uniroma1.it/it/users/iacopomasiuniroma1it)
 - Latent Semantic Analysis and word2vec [hierarchical softmax & neg. sampling]
-- Scaling word2vec, Sentiment Analysis, Language Model w/ Neural Net
+- Scaling word2vec, Sentiment Analysis, Language Model w/ Neural Nets
 - Sequence modeling w/ Deep Learning: LM /w RNN, POS, Image Captioning
 - from LSTM to Transformers
 - Neural Machine Translation, Encoder/Decoder, Beam Search
