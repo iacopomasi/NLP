@@ -4,6 +4,29 @@
 Course Material for Natural Language Processing @ Computer Science Dept, Sapienza
 Master in [Computer Science](https://www.studiareinformatica.uniroma1.it/master-course-computer-science)
 
+## Syllabus at a glance
+
+### NLP fundamentals and downstream tasks - Part I
+- Introduction to NLP, Regular Expressions, Finite State Automata and REs
+- Words, Corpora and Text Normalization
+- Spelling Correction and Minimum Edit Distance
+- Language models, Part-of-speech-tagging
+- Syntax, Semantics, Vector semantics (sparse), NLP tasks
+
+### Neural and multimodal NLP - Part II
+- Latent Semantic Analysis and word2vec [hierarchical softmax & neg. sampling]
+- Scaling word2vec, Sentiment Analysis, Language Model w/ Neural Net
+- Sequence modeling w/ Deep Learning: LM /w RNN, POS, Image Captioning
+- from LSTM to Transformers
+- Neural Machine Translation, Encoder/Decoder, Beam Search
+- Contextual Embedding: BERT, GPT, Transfer Learning
+- Multimodal NLP: Diffusion models (images), NLP as supervision for Vision (CLIP)
+- text2image application (Dall-E 2): based on diffusion and CLIP
+
+
+
+### Part II
+
 
 ## Material
 
