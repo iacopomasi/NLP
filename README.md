@@ -7,6 +7,7 @@ Master in [Computer Science](https://www.studiareinformatica.uniroma1.it/master-
 ## Syllabus at a glance
 
 ### NLP fundamentals and downstream tasks - Part I
+#### [Prof. Faralli](https://corsidilaurea.uniroma1.it/it/users/stefanofaralliuniroma1it)
 - Introduction to NLP, Regular Expressions, Finite State Automata and REs
 - Words, Corpora and Text Normalization
 - Spelling Correction and Minimum Edit Distance
@@ -14,6 +15,7 @@ Master in [Computer Science](https://www.studiareinformatica.uniroma1.it/master-
 - Syntax, Semantics, Vector semantics (sparse), NLP tasks
 
 ### Neural and multimodal NLP - Part II
+#### [Prof. Masi](https://corsidilaurea.uniroma1.it/it/users/iacopomasiuniroma1it)
 - Latent Semantic Analysis and word2vec [hierarchical softmax & neg. sampling]
 - Scaling word2vec, Sentiment Analysis, Language Model w/ Neural Net
 - Sequence modeling w/ Deep Learning: LM /w RNN, POS, Image Captioning
@@ -22,10 +24,6 @@ Master in [Computer Science](https://www.studiareinformatica.uniroma1.it/master-
 - Contextual Embedding: BERT, GPT, Transfer Learning
 - Multimodal NLP: Diffusion models (images), NLP as supervision for Vision (CLIP)
 - text2image application (Dall-E 2): based on diffusion and CLIP
-
-
-
-### Part II
 
 
 ## Material
