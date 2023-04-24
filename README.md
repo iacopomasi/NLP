@@ -12,6 +12,7 @@ Master in [Computer Science](https://www.studiareinformatica.uniroma1.it/master-
 - Words, Corpora and Text Normalization
 - Spelling Correction and Minimum Edit Distance
 - Language models, Part-of-speech-tagging
+- Hidden Markov Model, Viterbi Algorithm, Logistic Regression
 - Syntax, Semantics, Vector semantics (sparse), NLP tasks
 
 ### Neural and multimodal NLP - Part II
