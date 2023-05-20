@@ -3,7 +3,7 @@ jupyter-contrib-core==0.3.3
 jupyter-contrib-nbextensions==0.5.1
 notebook==6.4.3
 rise==5.7.1
-gensim==4.3.0
+gensim
 matplotlib
 matplotlib-inline
 numpy
