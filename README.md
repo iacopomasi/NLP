@@ -41,9 +41,9 @@ It is in the form of Jupyter Notebook slides with LaTeX math, code, drawings, pl
 ## Material 
 
 
-**Date**       | **Topic**          | **NBviewer**        |  **Colab**   |  **Notebook**  |  **PDF**
-:------------: | :------------:     | :------------:    |:------------: |:------------: |:------------:
-|              |                    |                   |               |  				|			|
-| __Word embeddings__    |                    |                   |               |  		|			|
-April 16, 18     | LSA, intro word2vec | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vY7xO00MoM7EV6muMqL02-8VnmKXPkLd?usp=sharing)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](https://github.com/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)       | [![PDF](https://badgen.net/badge/icon/PDF?icon=terminal&label)](https://github.com/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.pdf)|           
-|              |                    |                   |               | 	 |			|  
+**Date**       | **Topic**          | **NBviewer**        |  **Github**   |    **Colab**
+:------------: | :------------:     | :------------:    |:------------: |:------------:
+|              |                    |                   |  				|			|
+| __Word embeddings__    |                    |                   |   		|			|
+April 16, 18     | LSA, intro word2vec | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)       |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](https://github.com/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/)       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vY7xO00MoM7EV6muMqL02-8VnmKXPkLd?usp=sharing)            
+ 
