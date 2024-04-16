@@ -31,7 +31,7 @@ Master in [Computer Science](https://www.studiareinformatica.uniroma1.it/master-
 
 ## 📖 Course Material 
 
-It is in the form of Jupyter Notebook slides with <img src="https://render.githubusercontent.com/render/math?math=\LaTeX"> math, code, drawings, plots and explanations
+It is in the form of Jupyter Notebook slides with LaTeX math, code, drawings, plots and explanations
 
 - Slides and material will be uploaded before every lecture on Google Classroom and here.
 - Good starting point but **but may be not enough**.
@@ -41,9 +41,9 @@ It is in the form of Jupyter Notebook slides with <img src="https://render.githu
 ## Material 
 
 
-**Date**       | **Topic**          | **NBviewer**        |  **Github/HTML**   |  **Code/Notebook**  |  **PDF**
+**Date**       | **Topic**          | **NBviewer**        |  **Colab**   |  **Notebook**  |  **PDF**
 :------------: | :------------:     | :------------:    |:------------: |:------------: |:------------:
 |              |                    |                   |               |  				|			|
 | __Word embeddings__    |                    |                   |               |  		|			|
-April 16, 18     | LSA, intro word2vec | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](https://github.com/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)       | [![PDF](https://badgen.net/badge/icon/PDF?icon=terminal&label)](https://github.com/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.pdf)|           
+April 16, 18     | LSA, intro word2vec | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vY7xO00MoM7EV6muMqL02-8VnmKXPkLd?usp=sharing)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](https://github.com/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)       | [![PDF](https://badgen.net/badge/icon/PDF?icon=terminal&label)](https://github.com/iacopomasi/NLP/blob/main/course/AA2324/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.pdf)|           
 |              |                    |                   |               | 	 |			|  
