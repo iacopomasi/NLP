@@ -1,0 +1,28 @@
+name: nlp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - pip
+  - pip:
+    - transformers
+    - transformers[sentencepiece]
+    - datasets
+    - sacrebleu
+    - rouge_score
+    - pyYAML
+    - py7zr
+    - numpy
+    - nltk
+    - tqdm
+    - pandas
+    - matplotlib
+    - torch
+    - torchvision
+    - notebook
+    - ensure
+    - mypy-boto3-s3
+    - python-box
+    - loguru
