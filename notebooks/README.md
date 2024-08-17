@@ -19,4 +19,4 @@ python -m ipykernel install --user --name "nlp"
 ```
 
 
-You might need to refresh your window, then open the s2-labellingEOdata.ipynb Notebook and select the env_scenario2 kernel on the top-right side of the window.
+You might need to refresh your window, then open the desired Notebook and select the `nlp` kernel on the top-right side of the window.
