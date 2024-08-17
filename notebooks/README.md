@@ -1,5 +1,5 @@
 In this folder you can find all available materials including:
-- [ x ] **Part 1.3 - Regular Expressions**
+- [x]  **Part 1.3 - Regular Expressions**
 - [ ] **Part 1.4 - REs and finite state automata**
 - [ ] **Part 1.5 - Words, Corpora, Text Normalization**
 - [ ] **Part 1.6 - Spelling Correction and Minimum Edit Distance**
