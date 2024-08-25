@@ -26,3 +26,4 @@ dependencies:
     - mypy-boto3-s3
     - python-box
     - loguru
+    - automata-lib
