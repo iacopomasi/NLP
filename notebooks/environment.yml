@@ -19,7 +19,7 @@ dependencies:
     - tqdm
     - pandas
     - matplotlib
-    - torch
+    - torch 
     - torchvision
     - notebook
     - ensure
