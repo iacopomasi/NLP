@@ -18,6 +18,6 @@ mamba env create -f environment.yml
 mamba activate nlp
 python -m ipykernel install --user --name "nlp"
 ```
-
+ 
 
 You might need to refresh your window, then open the desired Notebook and select the `nlp` kernel on the top-right side of the window.
