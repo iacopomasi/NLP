@@ -27,7 +27,7 @@ by clicking on launch binder icon [![Binder](https://mybinder.org/badge_logo.svg
 |----------------------------|-----------------------------------------------------------------------------------|---------------------------------------------|------------------| 
 | **Word Embedding**          |                                                                                	 |                                             |				  |
 | Lunedi mat                  | Intro to NLP, Distributional Semantics and Latent Semantic Analysis (LSA)        | `2_01_lsa_intro_word2vec`                   |				  |
-| Lunedi pom                  | Learning word embedding with word2vec (application of word2vec)                	 | `2_01_lsa_intro_word2vec`    			   |  [![Self - Eval](https://img.shields.io/badge/Self-Eval-2ea44f)](#)   |
+| Lunedi pom                  | Learning word embedding with word2vec (application of word2vec)                	 | `2_01_lsa_intro_word2vec`    			   |  [![Self - Eval](https://img.shields.io/badge/Self-Eval-2ea44f)](https://www.dropbox.com/scl/fi/3dv0pa3bnxfmph2k3rqo5/NLP_self_eval_01.pdf?rlkey=2xm1zdghnbbni3r2k4uywjrfz&dl=0)   |
 | 					          |                                                                                	 |                                             |				  |
 | Martedi mat                 | Scaling word2vec (negative sampling, hierarchical softmax)                     	 | `2_02_word2vec_neural_nets`                 |				  |
 | **Recurrent Models**        |                                                                                	 |                                             |				  |
