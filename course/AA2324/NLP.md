@@ -43,3 +43,16 @@ by clicking on launch binder icon [![Binder](https://mybinder.org/badge_logo.svg
 | **Multimodal NLP**          |                                                                                  |                                             |				  |
 | Venerdi mat                 | Implementing a Transformers and miniGPT                                       	 |  `2_05_transformers_bert` 			       |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) 				  |
 | Venerdi pom                 | CLIP, ChatGPT (foundations to understand OpenAI Dall-E) + Final Evaluation          	 | `2_06_clip_diffusion`                       | [![Self - Eval](https://img.shields.io/badge/Self-Eval-2ea44f)](#)   |
+
+
+## Binder
+
+| Notebook                               | Binder Link                                                                                                                                    |
+|---------------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------- |
+| `2_01_lsa_intro_word2vec.ipynb`         | [![2_01_lsa_intro_word2vec](https://mybinder.org/badge_logo.svg) ](https://mybinder.org/v2/gh/iacopomasi/NLP/HEAD?urlpath=/tree/course/AA2324/2_01_lsa_intro_word2vec/2_01_lsa_intro_word2vec.ipynb)
+| `2_02_word2vec_neural_nets.ipynb`         | [![2_02_word2vec_neural_nets](https://mybinder.org/badge_logo.svg) ](https://mybinder.org/v2/gh/iacopomasi/NLP/HEAD?urlpath=/tree/course/AA2324/2_02_word2vec_neural_nets/2_02_word2vec_neural_nets.ipynb)
+| `2_03_seq_processing.ipynb`         | [![2_03_seq_processing](https://mybinder.org/badge_logo.svg) ](https://mybinder.org/v2/gh/iacopomasi/NLP/HEAD?urlpath=/tree/course/AA2324/2_03_seq_processing/2_03_seq_processing.ipynb)
+| `2_04_from_rnn_to_nmt.ipynb`         | [![2_04_from_rnn_to_nmt](https://mybinder.org/badge_logo.svg) ](https://mybinder.org/v2/gh/iacopomasi/NLP/HEAD?urlpath=/tree/course/AA2324/2_04_from_rnn_to_nmt/2_04_from_rnn_to_nmt.ipynb)
+| `2_05_transformers_bert.ipynb`         | [![2_05_transformers_bert](https://mybinder.org/badge_logo.svg) ](https://mybinder.org/v2/gh/iacopomasi/NLP/HEAD?urlpath=/tree/course/AA2324/2_05_transformers_bert/2_05_transformers_bert.ipynb)
+| `2_06_clip_diffusion.ipynb`         | [![2_06_clip_diffusion](https://mybinder.org/badge_logo.svg) ](https://mybinder.org/v2/gh/iacopomasi/NLP/HEAD?urlpath=/tree/course/AA2324/2_06_clip_diffusion/2_06_clip_diffusion.ipynb)
+
