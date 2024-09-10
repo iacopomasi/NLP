@@ -34,8 +34,8 @@ by clicking on launch binder icon [![Binder](https://mybinder.org/badge_logo.svg
 | **Recurrent Models**        |                                                                                	 |                                             |				  |
 | Martedi pom                 | Deep learning for Sequence Processing (Recurrent Neural Net - RNN)             	 | `2_03_seq_processing`					   | [![Self - Eval](https://img.shields.io/badge/Self-Eval-2ea44f)](https://www.dropbox.com/scl/fi/3dv0pa3bnxfmph2k3rqo5/NLP_self_eval_01.pdf?rlkey=2xm1zdghnbbni3r2k4uywjrfz&dl=0-)   |                          	 |                                             |				  |
 | 					          |                                                      
-| Mercoledi mat               | Deep learning for Sequence Processing (Long Short-term Memory - LSTM)          	 | `2_03_seq_processing`					  |
-| Mercoledi pom               |                                                                                	 | ` 2_04_from_rnn_to_nmt`				   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GQDSuxrwq1BiNfF43MSmXd1TFdJk1One?usp=sharing) 				  |
+| Mercoledi mat               | Deep learning for Sequence Processing (Long Short-term Memory - RNN)          	 | `2_03_seq_processing`					  |
+| Mercoledi pom               | Deep learning for Sequence Processing (Long Short-term Memory - LSTM)            | ` 2_04_from_rnn_to_nmt`				   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GQDSuxrwq1BiNfF43MSmXd1TFdJk1One?usp=sharing) 				  |
 | 					          |                                                                                	 |                                             |				  |
 | Giovedi mat                 | From RNN to Neural Machine Translation (NMT)                                   	 | `2_04_from_rnn_to_nmt`                      |	  |
 | **Transformers, Pre-training**|                                                                                 |                                             |				  |
