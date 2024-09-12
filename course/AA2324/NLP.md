@@ -42,8 +42,8 @@ by clicking on launch binder icon [![Binder](https://mybinder.org/badge_logo.svg
 | Giovedi pom                 | Transformers, BERT, GPT2, Pre-training (foundations to understand OpenAI chatGPT)| `2_05_transformers_bert`                    |				  |
 | 					          |                                                                                	 |                                             |				  |
 | **Multimodal NLP**          |                                                                                  |                                             |				  |
-| Venerdi mat                 | Implementing a Transformers and miniGPT                                       	 |  `2_05_transformers_bert` 			       |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) 				  |
-| Venerdi pom                 | CLIP, ChatGPT (foundations to understand OpenAI Dall-E) + Final Evaluation          	 | `2_06_clip_diffusion`                       | [![Self - Eval](https://img.shields.io/badge/Self-Eval-2ea44f)](#)   |
+| Venerdi mat                 | Implementing a Transformers and miniGPT                                       	 |  `2_05_transformers_bert` 			       |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BPpL0utXcJFWyjsNf1xxAR1grzkBFdWT?usp=sharing) 				  |
+| Venerdi pom                 | CLIP, ChatGPT (foundations to understand OpenAI Dall-E) + Final Evaluation          	 | `2_06_clip_diffusion`                       | [![Self - Eval](https://img.shields.io/badge/Self-Eval-2ea44f)](https://www.dropbox.com/scl/fi/aiuvs9fza72gpivr9avw6/_NLP__Self_Eval_02.pdf?rlkey=avmawe7m7xe1g78cl8q7mm7bi&dl=0)   |
 
 
 ## Binder
