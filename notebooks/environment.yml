@@ -16,6 +16,7 @@ dependencies:
     - py7zr
     - numpy
     - nltk
+    - spacy
     - tqdm
     - pandas
     - matplotlib
