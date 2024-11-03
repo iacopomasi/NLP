@@ -3,7 +3,7 @@
 # [Natural Language Processing](https://iacopomasi.github.io/NLP/)
 Course Material for Natural Language Processing @ Computer Science Dept, Sapienza
 Master in [Computer Science](https://www.studiareinformatica.uniroma1.it/master-course-computer-science)
-
+ 
 ## Syllabus at a glance
 
 ### NLP fundamentals and downstream tasks - Part I
