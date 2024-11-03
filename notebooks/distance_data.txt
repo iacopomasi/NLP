@@ -1,0 +1,3 @@
+cat	dog	1.5
+cat	rabbit	2.0
+dog	rabbit	3.0
