@@ -2,7 +2,11 @@ name: Release Notebooks
 
 # Trigger the workflow manually using the GitHub UI
 on:
-  workflow_dispatch:  # Manual trigger from the GitHub UI
+  push:
+    branches:
+    - dev
+    paths:
+    - 'notebooks/**'
 
 jobs:
   release:
