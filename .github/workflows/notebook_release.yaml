@@ -3,6 +3,7 @@ name: Release Notebooks
 # Trigger the workflow manually using the GitHub UI
 on:
   workflow_dispatch:  # Manual trigger from the GitHub UI
+
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -11,10 +12,25 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.9'
+
+    - name: Read version from setup.cfg
+      id: get_version
+      run: |
+        # Extract version from setup.cfg
+        version=$(python -c "from configparser import ConfigParser; config = ConfigParser(); config.read('setup.cfg'); print(config['metadata']['version'])")
+        echo "Version: $version"
+        echo "VERSION=$version" >> $GITHUB_ENV
+
     - name: Upload Notebooks as GitHub Release
       uses: softprops/action-gh-release@v1
       with:
+        tag_name: ${{ env.VERSION }}  # Use the version extracted from setup.cfg as the release tag
         files: |
-          notebooks/*  # Upload all .ipynb files as assets
+          **/*.ipynb  # Upload all .ipynb files as assets
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
