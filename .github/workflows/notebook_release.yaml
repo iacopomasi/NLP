@@ -1,0 +1,20 @@
+name: Release Notebooks
+
+# Trigger the workflow manually using the GitHub UI
+on:
+  workflow_dispatch:  # Manual trigger from the GitHub UI
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Upload Notebooks as GitHub Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: |
+          notebooks/*  # Upload all .ipynb files as assets
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
