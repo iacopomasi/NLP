@@ -12,7 +12,7 @@ In this folder you can find all available materials including:
 
 For creating the environment and executing all Jupyter Notebooks open a new terminal and execute the following commands:
  
-  
+   
 ```
 mamba env create -f environment.yml
 mamba activate nlp
