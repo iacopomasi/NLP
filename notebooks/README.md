@@ -4,7 +4,7 @@ In this folder you can find all available materials including:
 - [x] **Part 1.5 - Words, Corpora, Text Normalization**
 - [x] **Part 1.6 - Spelling Correction and Minimum Edit Distance**
 - [x] **Part 1.7 - Language Models**
-- [ ] **Part 1.8 - Part-of-Speech tagging**
+- [x] **Part 1.8 - Part-of-Speech tagging**
 - [ ] **Part 1.9 - Syntax**
 - [ ] **Part 1.10 - Semantics**
 - [ ] **Part 1.11 - Vector Semantics (sparse)**
