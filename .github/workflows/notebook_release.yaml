@@ -1,13 +1,12 @@
 name: Release Notebooks
 
-# Trigger the workflow on push to the 'dev' branch or manually using the GitHub UI
 on:
   push:
     branches:
       - dev
     paths:
       - 'notebooks/**'
-  workflow_dispatch:  # Allow manual triggering from the GitHub UI
+  #workflow_dispatch:
 
 jobs:
   release:
@@ -22,10 +21,13 @@ jobs:
       with:
         python-version: '3.9'
 
+    - name: List files in the notebooks directory
+      run: |
+        ls -alh notebooks/
+
     - name: Read version from setup.cfg
       id: get_version
       run: |
-        # Extract version from setup.cfg
         version=$(python -c "from configparser import ConfigParser; config = ConfigParser(); config.read('setup.cfg'); print(config['metadata']['version'])")
         echo "Version: $version"
         echo "VERSION=$version" >> $GITHUB_ENV
@@ -33,8 +35,8 @@ jobs:
     - name: Upload Notebooks as GitHub Release
       uses: softprops/action-gh-release@v1
       with:
-        tag_name: ${{ env.VERSION }}  # Use the version extracted from setup.cfg as the release tag
+        tag_name: ${{ env.VERSION }}
         files: |
-          notebooks/*.ipynb  # Upload all .ipynb files as assets
+          notebooks/*.ipynb
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
