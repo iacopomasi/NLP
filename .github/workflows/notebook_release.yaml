@@ -1,12 +1,13 @@
 name: Release Notebooks
 
-# Trigger the workflow manually using the GitHub UI
+# Trigger the workflow on push to the 'dev' branch or manually using the GitHub UI
 on:
   push:
     branches:
-    - dev
+      - dev
     paths:
-    - 'notebooks/**'
+      - 'notebooks/**'
+  workflow_dispatch:  # Allow manual triggering from the GitHub UI
 
 jobs:
   release:
@@ -37,4 +38,3 @@ jobs:
           notebooks/*.ipynb  # Upload all .ipynb files as assets
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
