@@ -34,7 +34,7 @@ jobs:
       with:
         tag_name: ${{ env.VERSION }}  # Use the version extracted from setup.cfg as the release tag
         files: |
-          **/*.ipynb  # Upload all .ipynb files as assets
+          notebooks/*.ipynb  # Upload all .ipynb files as assets
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
