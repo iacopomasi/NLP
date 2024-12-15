@@ -6,6 +6,7 @@ on:
       - dev
     paths:
       - 'notebooks/**'
+      - '.github/workflows/notebook_release.yaml'
   #workflow_dispatch:
 
 jobs:
