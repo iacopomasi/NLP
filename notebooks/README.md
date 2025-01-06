@@ -5,7 +5,7 @@ In this folder you can find all available materials including:
 - [x] **Part 1.6 - Spelling Correction and Minimum Edit Distance**
 - [x] **Part 1.7 - Language Models**
 - [x] **Part 1.8 - Part-of-Speech tagging**
-- [ ] **Part 1.9 - Syntax**
+- [x] **Part 1.9 - Syntax**
 - [ ] **Part 1.10 - Semantics**
 - [ ] **Part 1.11 - Vector Semantics (sparse)**
 - [ ] **Part 1.12 - NLP tasks**
