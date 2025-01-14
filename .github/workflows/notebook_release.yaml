@@ -7,6 +7,7 @@ on:
     paths:
       - 'notebooks/**'
       - '.github/workflows/notebook_release.yaml'
+      - 'setup.cfg'
   #workflow_dispatch:
 
 jobs:
