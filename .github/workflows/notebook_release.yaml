@@ -3,7 +3,7 @@ name: Release Notebooks
 on:
   push:
     branches:
-      - release
+      - dev
     paths:
       - 'notebooks/**'
       - '.github/workflows/notebook_release.yaml'
@@ -40,4 +40,4 @@ jobs:
         files: |
           notebooks/*.ipynb
       env:
-        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
