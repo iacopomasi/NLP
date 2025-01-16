@@ -5,8 +5,8 @@ Course Material for Natural Language Processing @ Computer Science Dept, Sapienz
 Master in [Computer Science](https://www.studiareinformatica.uniroma1.it/master-course-computer-science)
 
 ### **Tutor**:
-- Professor Iacopo Masi 
-- Professor Stefano Farali
+- [Prof. Masi](https://corsidilaurea.uniroma1.it/it/users/iacopomasiuniroma1it)
+- [Prof. Faralli](https://corsidilaurea.uniroma1.it/it/users/stefanofaralliuniroma1it)
     
 ### **Teacher Assistance:**
 - Parham Membari   
