@@ -3,7 +3,7 @@ name: Release Notebooks
 on:
   push:
     branches:
-      - dev
+      - aaa
     paths:
       - 'notebooks/**'
       - '.github/workflows/notebook_release.yaml'

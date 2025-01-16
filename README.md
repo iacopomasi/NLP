@@ -5,23 +5,14 @@ Course Material for Natural Language Processing @ Computer Science Dept, Sapienz
 Master in [Computer Science](https://www.studiareinformatica.uniroma1.it/master-course-computer-science)
 
 ### **Tutor**:
-- Professor Iacopo Masi
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Logo" width="20" height="20"> **Email**: masi@di.uniroma1.it  
-    - <img src="https://www.iconsdb.com/icons/preview/red/linkedin-6-xxl.png" alt="Logo" width="20" height="20"> **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/iacopomasi/)  
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="Logo" width="20" height="20"> **GitHub**: [GitHub](https://github.com/iacopomasi) 
-
+- Professor Iacopo Masi 
 - Professor Stefano Farali
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Logo" width="20" height="20"> **Email**: Stefano.faralli@uniroma1.it
-    - <img src="https://www.iconsdb.com/icons/preview/red/linkedin-6-xxl.png" alt="Logo" width="20" height="20"> **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/stefano-faralli-b1183920/) 
- 
     
-
 ### **Teacher Assistance:**
-- Parham Membari  
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Logo" width="20" height="20"> **Email**: p.membari96@gmail.com  
+- Parham Membari   
     - <img src="https://www.iconsdb.com/icons/preview/red/linkedin-6-xxl.png" alt="Logo" width="20" height="20"> **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/p-mem/)  
     - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="Logo" width="20" height="20"> **GitHub**: [GitHub](https://github.com/parham075)  
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Logo" width="20" height="20"> **Medium**: [Medium](https://medium.com/@p.membari96)
+    
 - Robert Adrian Minut
     - <img src="https://www.iconsdb.com/icons/preview/red/linkedin-6-xxl.png" alt="Logo" width="20" height="20"> **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/adrian-robert-minut/)  
     - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="Logo" width="20" height="20"> **GitHub**: [GitHub](https://github.com/adrianrob1)  
