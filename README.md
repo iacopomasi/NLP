@@ -3,7 +3,20 @@
 # [Natural Language Processing](https://iacopomasi.github.io/NLP/)
 Course Material for Natural Language Processing @ Computer Science Dept, Sapienza
 Master in [Computer Science](https://www.studiareinformatica.uniroma1.it/master-course-computer-science)
- 
+
+### **Tutor**:
+- Professor Iacopo Masi 
+- Professor Stefano Farali
+    
+### **Teacher Assistance:**
+- Parham Membari   
+    - <img src="https://www.iconsdb.com/icons/preview/red/linkedin-6-xxl.png" alt="Logo" width="20" height="20"> **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/p-mem/)  
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="Logo" width="20" height="20"> **GitHub**: [GitHub](https://github.com/parham075)  
+    
+- Robert Adrian Minut
+    - <img src="https://www.iconsdb.com/icons/preview/red/linkedin-6-xxl.png" alt="Logo" width="20" height="20"> **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/adrian-robert-minut/)  
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="Logo" width="20" height="20"> **GitHub**: [GitHub](https://github.com/adrianrob1)  
+    
 ## Syllabus at a glance
 
 ### NLP fundamentals and downstream tasks - Part I
