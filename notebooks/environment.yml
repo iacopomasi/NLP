@@ -15,6 +15,7 @@ dependencies:
     - pyYAML
     - py7zr
     - numpy
+    - scikit-learn
     - nltk
     - spacy
     - tqdm
