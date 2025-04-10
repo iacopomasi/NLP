@@ -3,10 +3,11 @@ name: Release Notebooks
 on:
   push:
     branches:
-      - main
+      - aaa
     paths:
       - 'notebooks/**'
       - '.github/workflows/notebook_release.yaml'
+      - 'setup.cfg'
   #workflow_dispatch:
 
 jobs:
@@ -38,6 +39,6 @@ jobs:
       with:
         tag_name: ${{ env.VERSION }}
         files: |
-          notebooks/*
+          notebooks/*.ipynb
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
