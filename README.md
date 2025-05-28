@@ -70,3 +70,32 @@ May 14, 21    | Transformers, BERT, Pre-training | [![nbviewer](https://raw.gith
 |              |                    |                   |               | 	 |			|        |
 May 28    | ExamPrep, CLIP | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/iacopomasi/NLP/blob/main/course/AA2324/2_06_clip_diffusion/2_06_clip_diffusion.ipynb)       |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](https://github.com/iacopomasi/NLP/blob/main/course/AA2324/2_06_clip_diffusion/)       |  
 |              |                    |                   |               | 	 |			|        |
+
+
+### How to open the presentations locally
+
+The following commands have been tested on a Linux machine.
+In case you are running another OS, please adapt them to your specific situation.
+
+1. Clone the repository
+```sh
+git clone https://github.com/iacopomasi/NLP.git
+cd NLP/
+```
+2. Install the dependencies in a virtualenv
+```sh
+pytho3.10n -m venv .venv  # Python 3.10
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+3. Run Jupyter
+```sh
+jupyter notebook
+```
+4. In the browser that automatically opens up:
+    - Open the folder where the .ipynb is
+    - Open the .ipynb presentation you want to see
+    - Click on this button to start the presentation
+
+![RISE start presentation button](.github/assets/rise_button.png)
+
